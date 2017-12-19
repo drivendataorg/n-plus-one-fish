@@ -12,8 +12,8 @@ This repository contains code from the winning competitors in the [N+1 Fish, N+2
 
 ## Winning Submissions
 
-| Place |Team or User | Public Score | Private Score | Summary of Model |
-| --- | --- | --- | --- | --- | --- |
+| Place | Team or User | Public Score | Private Score | Summary of Model |
+| --- | --- | --- | --- | --- |
 | 1 | [dmytro](https://www.drivendata.org/users/dmytro/) | 0.7661 | 0.7754 | UNET to find the fish ruler, crop frames so ruler is centered, detect fish with SSD network, crop fish and classifiy if one is found. |
 | 2 | [ZFTurbo](https://www.drivendata.org/users/ZFTurbo/) | 0.7294 | 0.7365 | UNET to find fish; use bounding boxes to crop image down to fish size; DenseNet_121, ResNet50 and InceptionV3 trained on augmented data, test-time augmentation (multiple predictions per frame), GBM to determine if there is a fish, type of fish, and fish length.  |
 | 3 | [Daniel_FG](https://www.drivendata.org/users/Daniel_FG/) | 0.7224 | 0.7316 | Region of interest for fish ruler found with UNET (16 frames at a time), CNNs to detect if there is fish in ROI and best frame to do classification per frame and then Extra Trees model using the frame information, fine tuned VGG models for classification and Extra Trees model on CNN outputs for fish length.  |

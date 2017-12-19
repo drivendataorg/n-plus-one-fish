@@ -1,0 +1,26 @@
+net: "trainval_vgg_adl_roi.prototxt"
+test_iter: 1621
+test_interval: 500
+base_lr: 0.0001
+display: 100
+max_iter: 6000
+lr_policy: "multistep"
+gamma: 0.1
+momentum: 0.9
+weight_decay: 0.0005
+snapshot: 500
+snapshot_prefix: "baseline_vgg_adl_roi_rot_shadow_20"
+solver_mode: GPU
+device_id: 0
+debug_info: false
+snapshot_after_train: true
+test_initialization: false
+average_loss: 10
+stepvalue: 40000
+stepvalue: 100000
+stepvalue: 120000
+iter_size: 1
+type: "SGD"
+#clip_gradients: 5
+show_per_class_result: true
+

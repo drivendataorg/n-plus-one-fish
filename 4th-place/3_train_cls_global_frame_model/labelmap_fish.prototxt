@@ -1,0 +1,40 @@
+item {
+  name: "7"
+  label: 7
+  display_name: "7"
+}
+item {
+  name: "0"
+  label: 0
+  display_name: "0"
+}
+item {
+  name: "1"
+  label: 1
+  display_name: "1"
+}
+item {
+  name: "2"
+  label: 2
+  display_name: "2"
+}
+item {
+  name: "3"
+  label: 3
+  display_name: "3"
+}
+item {
+  name: "4"
+  label: 4
+  display_name: "4"
+}
+item {
+  name: "5"
+  label: 5
+  display_name: "5"
+}
+item {
+  name: "6"
+  label: 6
+  display_name: "6"
+}

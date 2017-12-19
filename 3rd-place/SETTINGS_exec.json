@@ -1,0 +1,10 @@
+{
+"cache": "True",
+"warnings": "True",
+"log": "True",
+"verbose": "True",
+"debug_mode": "False",
+"max_cores": 16,
+"use_final_weights_folder": "False"
+}
+

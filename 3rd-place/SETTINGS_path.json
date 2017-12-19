@@ -1,0 +1,22 @@
+{
+"path_log": "./log/",                             
+"tmp_cache": "./tmp_cache/",   
+
+"path_data_raw": "./L0_01_Data_RAW/",
+
+"path_L0_preprocess": "./L0_10_Preprocess/",
+
+"path_outputs_S1_ROI": "./S1_ROI_Outputs/",
+"path_outputs_S2_VSE": "./S2_VSE_Outputs/",
+"path_outputs_S3_VSEL2": "./S3_VSEL2_Outputs/",
+"path_outputs_S4_VSEL3": "./S4_VSEL3_Outputs/",
+"path_outputs_S5_FC": "./S5_FC_Outputs/",
+"path_outputs_S6_FCL2": "./S6_FCL2_Outputs/",
+"path_outputs_S7_FL": "./S7_FL_Outputs/",
+"path_outputs_S8_FLL2": "./S8_FLL2_Outputs/",
+"path_outputs_S9_PO": "./S9_PO_Outputs/",
+
+"path_submissions": "./submissions/"
+
+}
+

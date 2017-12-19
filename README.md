@@ -10,6 +10,9 @@ Cod, haddock, flounder - these iconic fish have supported New England’s fishin
 ## What's in this Repository
 This repository contains code from the winning competitors in the [N+1 Fish, N+2 Fish](https://www.drivendata.org/competitions/48/identify-fish-challenge/) DrivenData challenge.
 
+#### Winning code for other DrivenData competitions is available in the [competition-winners repository](https://github.com/drivendataorg/competition-winners).
+
+
 ## Winning Submissions
 
 | Place | Team or User | Public Score | Private Score | Summary of Model |

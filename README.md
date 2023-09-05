@@ -4,14 +4,16 @@
 ![Banner Image](https://s3.amazonaws.com:443/drivendata/comp_images/fish-tile.png)
 
 # N+1 Fish, N+2 Fish
+
 ## Goal of the Competition
-Cod, haddock, flounder - these iconic fish have supported New England’s fishing fleets for generations. When they’re not swimming around the depths of the North Atlantic Ocean, snacking on crabs and lobster, these fish offer a source of sustainable fish and chips. Making these fisheries sustainable means accurately counting all fish caught, including those thrown back at sea because they’re the wrong size or species. Managers require fishermen to monitor that discarded catch and some fishermen recently started carrying video cameras that record fish as they’re returned to the water. But, humans still have to watch hours and hours of video footage to extract the number, size, and species of discarded catch. Can you help automate the video review and make it cheaper and easier to keep track of the fish in (and out) of the sea?
+
+Cod, haddock, flounder—these iconic fish have supported New England’s fishing fleets for generations. When they’re not swimming around the depths of the North Atlantic Ocean, snacking on crabs and lobster, these fish offer a source of sustainable fish and chips. Making these fisheries sustainable means accurately counting all fish caught, including those thrown back at sea because they’re the wrong size or species. Managers require fishermen to monitor that discarded catch and some fishermen recently started carrying video cameras that record fish as they’re returned to the water. But, humans still have to watch hours and hours of video footage to extract the number, size, and species of discarded catch. Can you help automate the video review and make it cheaper and easier to keep track of the fish in (and out) of the sea?
 
 ## What's in this Repository
-This repository contains code from the winning competitors in the [N+1 Fish, N+2 Fish](https://www.drivendata.org/competitions/48/identify-fish-challenge/) DrivenData challenge.
 
-#### Winning code for other DrivenData competitions is available in the [competition-winners repository](https://github.com/drivendataorg/competition-winners).
+This repository contains code from the winning competitors in the [N+1 Fish, N+2 Fish](https://www.drivendata.org/competitions/48/identify-fish-challenge/) DrivenData challenge. Code for all winning solutions are open source under the MIT License.
 
+**Winning code for other DrivenData competitions is available in the [competition-winners repository](https://github.com/drivendataorg/competition-winners).**
 
 ## Winning Submissions
 
